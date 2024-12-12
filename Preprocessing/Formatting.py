@@ -8,4 +8,3 @@ output_path = 'C:\Users\asus\OneDrive\Documents\GitHub\Client-Predicting\Dataset
 data.to_csv(output_path, index=False)
 
 print(data.head())
-files.download(output_path)
